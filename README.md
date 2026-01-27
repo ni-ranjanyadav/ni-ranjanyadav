@@ -7,7 +7,7 @@ I'm learning programming and sharing my journey here.
 - C Programming
 
 ## 📂 Repositories
-- PYTHON – Python practice
+- Python – Python practice
 - C_Program – C basics
 
 ## 📫 Contact
