@@ -1,14 +1,14 @@
-# Hi, I'm Niranjan 👋
+# Hi, I'm Niranjan 
 
 I'm learning programming and sharing my journey here.
 
-## 🚀 Skills
+##  Skills
 - Python
 - C Programming
 
-## 📂 Repositories
+##  Repositories
 - Python – Python practice
 - C_Program – C basics
 
-## 📫 Contact
+##  Contact
 GitHub: https://github.com/ni-ranjanyadav
