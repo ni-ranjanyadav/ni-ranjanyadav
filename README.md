@@ -1,19 +1,18 @@
-# Hi, I'm Niranjan Kumar
+# Niranjan Kumar
+### Electronics and Communication Engineering Student
 
-I'm an Electronics and Communication Engineering student exploring electronics, embedded systems, IoT, VLSI, and software/AI. I use this profile to document what I'm learning and the projects I build.
+I’m building a foundation in programming and exploring embedded systems, IoT, VLSI, and software/AI. This profile brings together my coursework, practice, and project work.
 
-## Current foundation
-- C programming
-- Python
-- Electronics and communication engineering
+## Technical foundation
+- **Programming:** C, Python
+- **Areas of interest:** Embedded systems, IoT, VLSI, electronics, and AI
 
-## Projects and learning
-- [C_Program](https://github.com/ni-ranjanyadav/C_Program) — C programming exercises and fundamentals
-- [Python](https://github.com/ni-ranjanyadav/Python) — Python practice and data handling exercises
-- [Portfolio](https://github.com/ni-ranjanyadav/portfolio) — personal portfolio website
+## Selected repositories
+- [C programming practice](https://github.com/ni-ranjanyadav/C_Program) — exercises covering core C concepts
+- [Python practice](https://github.com/ni-ranjanyadav/Python) — programming and data-handling exercises
+- [Portfolio website source](https://github.com/ni-ranjanyadav/portfolio) — Flask-based personal website
 
-I'm working toward project experience in embedded systems and IoT, alongside software and AI. I'll add tools and technologies here as I use them in projects.
+I’m continuing to build hands-on projects and will add tools and results here as I gain experience.
 
-## Contact
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/niranjanyadav07)
-- [Portfolio](https://github.com/ni-ranjanyadav/portfolio)
